@@ -1,0 +1,15 @@
+property1
+Owner Name: Keith Mulqueen
+Owner Address: Ballycarney
+Property Estimated Value: 500000.0
+Private Residence: true
+Location Category: Large Town
+Calculated Tax: 225.0
+
+property2
+Owner Name: Someone Else
+Owner Address: Somewhere Else
+Property Estimated Value: 1000000.0
+Private Residence: false
+Location Category: Small Town
+Calculated Tax: 625.0
